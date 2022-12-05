@@ -1,6 +1,9 @@
-var email = "lavery_william@yahoo.com"
+var email = "laughing_alltheway@yahoo.com"
 var streetAddress = "27 Maple Lane"
 var favoriteColors = "purple orange red"
+var age = 40
+var hours = 24
+var days = 7
 var drunk = false
 var inDebt = false
 var overTwentyone = true
